@@ -1,0 +1,28 @@
+body {
+    background: black;
+    color: white;
+}
+ 
+
+.poster{
+  width: 50%;
+  margin-left: 27%;
+  margin-top: 100px;
+   
+  color: white;
+  font-family: "Caveat", cursive;
+  text-align: center;
+
+}
+.mostivational {
+  border: 5px solid white;
+  width: 50%;
+}
+
+h1{
+ text-transform: uppercase;
+
+  font-size: 3rem;
+
+}
+
